@@ -589,6 +589,29 @@ table {
   width: 135px;
 }
 
+#grade {
+  font: 'Helvetica';
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 30px;
+}
+
+#grade table {
+  color: #666;
+  padding: 10pt;
+  border: solid white;
+}
+
+#grade table tr, td {
+  padding: 5px;
+  border-color: gray !important;
+}
+
+#grade table p {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
 @media (min-width: 1200px) {
   .slogan {
     font-size: 100px;
