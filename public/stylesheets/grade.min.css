@@ -1,1 +1,24 @@
 @import url(https://themes.googleusercontent.com/fonts/css?kit=dB3GuSCq0f_LRNaO3opFPA);ol{margin:0;padding:0}.c4{border-style:solid;width:288.8pt;background-color:#efefef;padding:5pt;border-color:#000;border-width:1pt;vertical-align:top}.c5{border-style:solid;width:48.8pt;padding:5pt;border-color:#000;border-width:1pt;vertical-align:top}.c12{border-style:solid;width:288.8pt;padding:5pt;border-color:#000;border-width:1pt;vertical-align:top}.c18{border-style:solid;width:273.8pt;padding:5pt;border-color:#000;border-width:1pt;vertical-align:top}.c6{line-height:1;padding-top:0;widows:2;orphans:2;text-align:justify;direction:ltr;padding-bottom:0;page-break-after:avoid}.c26{line-height:1;padding-top:0;widows:2;margin-right:-72pt;orphans:2;text-align:center;direction:ltr;margin-left:-40.5pt}.c2{vertical-align:baseline;color:#000;font-size:13pt;font-style:normal;font-family:"Open Sans";text-decoration:none;font-weight:400}.c23{line-height:1;widows:2;orphans:2;text-align:left;direction:ltr;padding-bottom:8pt}.c1{line-height:1;padding-top:0;widows:2;orphans:2;text-align:center;direction:ltr;padding-bottom:0}.c28{line-height:1;widows:2;orphans:2;text-align:justify;direction:ltr;padding-bottom:8pt}.c3{line-height:1;padding-top:0;widows:2;orphans:2;text-align:left;direction:ltr;padding-bottom:0}.c10{vertical-align:baseline;color:red;font-size:13pt;font-style:normal;text-decoration:none;font-weight:700}.c7{color:#000;font-size:13pt;font-family:"Open Sans";text-decoration:none}.c19{widows:2;orphans:2;height:11pt;direction:ltr}.c20{margin-right:auto;border-collapse:collapse;margin-left:auto}.c16{max-width:531pt;background-color:#fff;padding:72pt 40.5pt}.c24{color:#666;font-weight:400}.c8{margin-right:12pt;page-break-after:avoid}.c27{color:#000;font-weight:400}.c21{color:inherit;text-decoration:inherit}.c22{vertical-align:baseline;font-style:normal}.c25{margin-right:4.5pt}.c0{background-color:#fff;height:0}.c14{page-break-after:avoid}.c29{height:11pt}.c17{font-weight:700}.c9{font-family:"Open Sans"}.c15{font-size:24pt}.c11{font-size:13pt}.c13{background-color:#efefef}#grade .title{widows:2;padding-top:0;line-height:1.15;orphans:2;text-align:left;color:#000;font-size:21pt;font-family:"Trebuchet MS";padding-bottom:0;page-break-after:avoid}#grade .subtitle{widows:2;padding-top:0;line-height:1.15;orphans:2;text-align:left;color:#666;font-style:italic;font-size:13pt;font-family:"Trebuchet MS";padding-bottom:10pt;page-break-after:avoid}#grade li{color:#000;font-size:11pt;font-family:Arial}#grade p{color:#000;font-size:11pt;margin:0;font-family:Arial}#grade h1{widows:2;padding-top:10pt;line-height:1.15;orphans:2;text-align:left;color:#000;font-size:16pt;font-family:"Trebuchet MS";padding-bottom:0;page-break-after:avoid}#grade h2{widows:2;padding-top:10pt;line-height:1.15;orphans:2;text-align:left;color:#000;font-size:13pt;font-family:"Trebuchet MS";font-weight:700;padding-bottom:0;page-break-after:avoid}#grade h3{widows:2;line-height:1.15;orphans:2;text-align:left;color:#666;font-size:12pt;font-family:"Trebuchet MS";font-weight:700;padding-bottom:0;page-break-after:avoid}#grade h4,#grade h5{widows:2;line-height:1.15;orphans:2;text-align:left;color:#666;font-size:11pt;font-family:"Trebuchet MS";padding-bottom:0;page-break-after:avoid}#grade h6{widows:2;line-height:1.15;orphans:2;text-align:left;color:#666;font-style:italic;font-size:11pt;font-family:"Trebuchet MS";padding-bottom:0;page-break-after:avoid}
+
+#grade {
+  font: 'Helvetica';
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 30px;
+}
+
+#grade table {
+  color: #666;
+  padding: 10pt;
+  border: solid white;
+}
+
+#grade table tr, td {
+  padding: 5px;
+  border-color: gray !important;
+}
+
+#grade table p {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
